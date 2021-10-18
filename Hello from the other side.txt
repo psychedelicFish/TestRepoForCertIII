@@ -1,7 +1,7 @@
 yo
 
-<<<<<<< Updated upstream
+
 interesting thing, plentiful interesting things
-=======
+
 This is some stuff i am typing to prove a point. Watch it fail
->>>>>>> Stashed changes
+
